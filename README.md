@@ -141,4 +141,5 @@ The dashboard consists of two pages:
 
 #### Nour Alzubaidi
 Junior Data Analyst
+
 Skills: Excel | SQL | Python | Power BI | Data Analysis | Data Visualization
