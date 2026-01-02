@@ -80,7 +80,7 @@ EDA focused on:
 ## Power BI Dashboard
 The dashboard consists of two pages:
 ### Page 1 - Executive Overview
-
+![Executive Overview Dashboard](images/overview.png)
 * KPIs: Total Sales, Total Profit, Total Orders, Average Order Value
 
 * Sales trend over time
@@ -92,6 +92,7 @@ The dashboard consists of two pages:
 * Interactive filters (Year, Category, Region, Segment)
 
 ### Page 2 - Detailed Analysis
+![Detailed Analysis Dashboard](images/details.png)
 
 * Discount impact on profit
 
